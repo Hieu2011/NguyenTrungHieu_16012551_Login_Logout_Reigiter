@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "706906233989",
+    "firebase_url": "https://teston-e7c6a.firebaseio.com",
+    "project_id": "teston-e7c6a",
+    "storage_bucket": "teston-e7c6a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:706906233989:android:425d5027722bb119",
+        "android_client_info": {
+          "package_name": "com.example.student.ontap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "706906233989-g6hb704okkm3ceripms0ppisn5mejm8q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRvTCfIdNvsyGE-_pRy3DrdgPcK0jP3f0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

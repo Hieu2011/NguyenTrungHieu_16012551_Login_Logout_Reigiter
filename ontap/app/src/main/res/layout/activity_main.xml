@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    android:orientation="vertical">
+    <EditText
+        android:id="@+id/edt_UserName"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Nhap User Name"/>
+    <EditText
+        android:id="@+id/edt_Password"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Nhap Password"
+        android:inputType="textPassword"/>
+    <Button
+        android:id="@+id/btn_Login"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Login"/>
+
+    <Button
+        android:id="@+id/btn_Regiter"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Regiter"/>
+
+
+</LinearLayout>
